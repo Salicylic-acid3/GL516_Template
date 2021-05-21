@@ -104,7 +104,7 @@
   )
 
   (module kbd:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60A299F2)
-    (at 247.65 104.775)
+    (at 200.025 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -123,7 +123,7 @@
   )
 
   (module kbd:SW_Hole_1.25 (layer F.Cu) (tedit 5FB4AAB0) (tstamp 60A299D0)
-    (at 226.21875 104.775)
+    (at 245.26875 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -142,7 +142,7 @@
   )
 
   (module kbd:SW_Hole_1.25 (layer F.Cu) (tedit 5FB4AAB0) (tstamp 60A299BA)
-    (at 202.40625 104.775)
+    (at 221.45625 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
