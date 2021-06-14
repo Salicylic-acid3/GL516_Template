@@ -1198,9 +1198,9 @@ Connection ~ 6525 3500
 Text Notes 14775 7125 0    50   ~ 0
 Screw(Don't delete it!)
 Text Notes 3800 2625 0    50   ~ 0
-Left hand block (Max 35 keys)
+Left hand block (Max 40 keys)
 Text Notes 11350 2600 0    50   ~ 0
-Right hand block (Max 35 keys)
+Right hand block (Max 40 keys)
 $Comp
 L Device:D D41
 U 1 1 60C8EFDF
@@ -3298,7 +3298,7 @@ F 3 "" H 2600 7325 60  0001 C CNN
 	1    2600 7325
 	-1   0    0    1   
 $EndComp
-Text Notes 8075 5975 3    50   ~ 0
+Text Notes 5325 6900 0    50   ~ 0
 LED x 80
 Wire Wire Line
 	1725 10675 1625 10675
@@ -4341,17 +4341,6 @@ F 3 "" H 2600 13175 60  0001 C CNN
 	1    2600 13175
 	-1   0    0    1   
 $EndComp
-$Comp
-L power:GND #PWR016
-U 1 1 62EECAEF
-P 6500 19975
-F 0 "#PWR016" H 6500 19725 50  0001 C CNN
-F 1 "GND" H 6505 19802 50  0000 C CNN
-F 2 "" H 6500 19975 50  0001 C CNN
-F 3 "" H 6500 19975 50  0001 C CNN
-	1    6500 19975
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7525 12625 7525 12825
 Wire Wire Line
@@ -4504,17 +4493,6 @@ Wire Wire Line
 	9300 13275 9525 13275
 Wire Wire Line
 	9425 12825 9425 13075
-$Comp
-L power:GND #PWR021
-U 1 1 62EECB0C
-P 8875 19975
-F 0 "#PWR021" H 8875 19725 50  0001 C CNN
-F 1 "GND" H 8880 19802 50  0000 C CNN
-F 2 "" H 8875 19975 50  0001 C CNN
-F 3 "" H 8875 19975 50  0001 C CNN
-	1    8875 19975
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	10025 12625 10025 12825
 Wire Wire Line
