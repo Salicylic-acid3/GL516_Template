@@ -1,4 +1,4 @@
-17335526639427634
+17342282503616361
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76517,6 +76517,13 @@ capacitor 1206
 2
 2
 kbd_Parts
+Capacitor_1206_Rev
+Capacitor SMD 1206, hand soldering
+capacitor 1206
+0
+4
+2
+kbd_Parts
 Diode_SMD
 Resitance 3 pas
 R
@@ -76530,6 +76537,13 @@ R
 0
 0
 0
+kbd_Parts
+Diode_SMD_Rev
+Resitance 3 pas
+R
+0
+4
+2
 kbd_Parts
 Diode_SMD_Silk
 Resitance 3 pas
@@ -76902,6 +76916,13 @@ SW_Hole_1.75
 0
 0
 kbd_SW_Hole
+SW_Hole_2
+
+
+0
+0
+0
+kbd_SW_Hole
 SW_Hole_2.25
 
 
@@ -76909,49 +76930,14 @@ SW_Hole_2.25
 0
 0
 kbd_SW_Hole
-SW_Hole_2.25u
-
-
-0
-0
-0
-kbd_SW_Hole
-SW_Hole_2.25u_TH3
-
-
-0
-12
-1
-kbd_SW_Hole
-SW_Hole_2u
-
-
-0
-0
-0
-kbd_SW_Hole
-SW_Hole_2u_TH
-
-
-0
-12
-1
-kbd_SW_Hole
-SW_Hole_2u_TH2
-
-
-0
-12
-1
-kbd_SW_Hole
-SW_Hole_2u_TH3
-
-
-0
-12
-1
-kbd_SW_Hole
 SW_Hole_2u_choc_v2
+
+
+0
+0
+0
+kbd_SW_Hole
+SW_Hole_6.25
 
 
 0
@@ -76991,6 +76977,48 @@ SW_Hole_TH
 
 0
 4
+1
+kbd_SW_Hole
+SW_Hole_TH_1.5
+
+
+0
+4
+1
+kbd_SW_Hole
+SW_Hole_TH_1.25
+
+
+0
+4
+1
+kbd_SW_Hole
+SW_Hole_TH_1.75
+
+
+0
+4
+1
+kbd_SW_Hole
+SW_Hole_TH_2
+
+
+0
+12
+1
+kbd_SW_Hole
+SW_Hole_TH_2.25
+
+
+0
+12
+1
+kbd_SW_Hole
+SW_Hole_TH_6.25
+
+
+0
+12
 1
 kbd_SW_Hole
 SW_Hole_ミドルアクリル
