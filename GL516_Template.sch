@@ -2183,7 +2183,7 @@ Don't delete it!
 Text Notes 1900 725  0    50   ~ 0
 BLE Micro Pro
 $Comp
-L kbd:BLEMicroPro U1
+L Salicylic_kbd:Micon_BLEMicroPro U1
 U 1 1 5BF16C54
 P 2150 1975
 F 0 "U1" H 2150 3012 60  0000 C CNN
